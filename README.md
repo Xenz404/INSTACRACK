@@ -5,7 +5,7 @@
 INSTACRACK V1.1
 --------|
 ![](https://github.com/Xenz404/INSTACRACK/blob/main/IMG/Screenshot_20230108-153125.jpg)
-RESULT SESUAI TARGET!
+
 ```python
 pkg update && pkg upgrade
 pkg install python
@@ -16,5 +16,7 @@ python Run.py
 ```
 ####  - Download termux disini -
 
-[>_](https://bit.ly/3W3Y1Lg)
+[≥](https://bit.ly/3W3Y1Lg)
 --------|
+
+Thanks for using my tools^_^
