@@ -14,4 +14,4 @@ cd INSTACRACK
 python Run.py
 ```
 #### Download termux disini
-[![](https://bit.ly/3W3Y1Lg)
+[![]](https://bit.ly/3W3Y1Lg)
