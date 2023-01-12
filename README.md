@@ -13,3 +13,5 @@ git clone https://github.com/Xenz404/INSTACRACK
 cd INSTACRACK
 python Run.py
 ```
+#### Download termux disini
+![](https://bit.ly/3W3Y1Lg)
