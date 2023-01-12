@@ -5,6 +5,8 @@
 INSTACRACK V1.1
 --------|
 ![](https://github.com/Xenz404/INSTACRACK/blob/main/IMG/Screenshot_20230108-153125.jpg)
+INSTALL SCRIPT
+--------|
 ```python
 pkg update && pkg upgrade
 pkg install python
