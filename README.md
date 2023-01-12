@@ -3,7 +3,7 @@
 <details>
   <summary><b>Baca selengkapnya </b></summary>
 
-INSTACRACK V1.0
+INSTACRACK V1.1
 --------|
 ```python
 pkg update && pkg upgrade
@@ -14,4 +14,6 @@ cd INSTACRACK
 python Run.py
 ```
 ####  - Download termux disini -
+--------|
 [TERMUX >_](https://bit.ly/3W3Y1Lg)
+--------|
