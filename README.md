@@ -5,7 +5,7 @@
 INSTACRACK V1.1
 --------|
 ![](https://github.com/Xenz404/INSTACRACK/blob/main/IMG/Screenshot_20230108-153125.jpg)
-</>
+</>            </>
 Download aplikasi termux versi 118 <a href="https://bit.ly/3W3Y1Lg"> klik disini</a>
  
 #### Lalu jalankan perintah dibawah
