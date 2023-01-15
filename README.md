@@ -5,9 +5,9 @@
 INSTACRACK V1.1
 --------|
 ![](https://github.com/Xenz404/INSTACRACK/blob/main/IMG/Screenshot_20230108-153125.jpg)
-<br>
+
 Download aplikasi termux versi 118 <a href="https://bit.ly/3W3Y1Lg"> klik disini</a>
-<br>
+
 #### Lalu jalankan perintah dibawah
 ```python
 pkg update && pkg upgrade
