@@ -17,4 +17,8 @@ git clone https://github.com/Xenz404/INSTACRACK
 cd INSTACRACK
 python Run.py
 ```
-#### Thanks for using my tools^_^
+- Script premium ya kalo mau beli pikir" dulu>_
+#### Method yang digunakan
+--------|
+- AJAX
+- API
